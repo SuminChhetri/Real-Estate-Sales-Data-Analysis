@@ -67,7 +67,7 @@ This project significantly improved my skills in data preparation, merging, and 
 The project files include:
 - Analysis report (PDF/Word format)
 - Source data files (CSV/Excel format)
-- SQL scripts used for data preparation
+- Preview images of the report
 
 ## Acknowledgements
 
